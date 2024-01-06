@@ -1,15 +1,18 @@
 <h1>Hi <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="30">, I'm Muhammad Ahmed Arshed</h1>
+
 <h3>I am a Software Engineer and Tech Enthusiast from Pakistan</h3>
 
-- 😄 I am currently striving to learn, develop & Grow **.**
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning everything 🤣 but specifically expanding my knowledge in Python and AI **.**
+- 😄 I am currently striving to learn, develop & Grow
 
-- 🔭 I am currently working on Pyhton and Node js **.**
+- 🔭 I am currently working on Pyhton, Node js and GO.
 
-- 👯 I am looking to collaborate on any kind of Projects **.**
+- 🌱 I’m currently learning everything 🤣 but specifically expanding my knowledge in Python and AI
 
-- 📢 I have a passion for photography **.**
+- 👯 I am looking to collaborate on any kind of Projects.
+
+- 📢 I have a passion for photography
 
 - 📫 How to reach me **ahmed.arshed.562@gmail.com**
 
